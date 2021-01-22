@@ -1,0 +1,27 @@
+_repo: The-Manchester-Man_64320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banks, G. Linnaeus (George Linnaeus), Mrs.
+    aliases:
+    - Banks, Mrs. G. Linnaeus
+    - Varley, Isabella
+    - Banks, Isabella Varley
+    - Banks, Mrs. George Linnaeus
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '39322'
+    url: http://www.gutenberg.org/2009/agents/39322
+description: ''
+gutenberg_issued: '2021-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Manchester Man
+url: http://www.gutenberg.org/ebooks/64320
