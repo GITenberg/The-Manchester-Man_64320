@@ -1,5 +1,8 @@
 _repo: The-Manchester-Man_64320
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64320-h/images/cover.jpg
 creator:
   author:
     agent_name: Banks, G. Linnaeus (George Linnaeus), Mrs.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '39322'
     url: http://www.gutenberg.org/2009/agents/39322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64320#The-Manchester-Man
 gutenberg_issued: '2021-01-17'
 gutenberg_type: Text
 identifiers:
